@@ -26,7 +26,7 @@ This project explores the following research questions:
 ### Exploratory Analysis 
 1. **How serious is the hospital readmission problem?**
 
-## Business Analysis 
+### Business Analysis 
 1. **Which primary diagnosis are driving readmission?**
 2. **Which patient characteristics are associated with readmissions?**
    - Does age influence readmission risk?
