@@ -24,18 +24,18 @@ This analysis focuses on 9 key variables that are most relevant to evaluating fa
 This project explores the following research questions:
 
 ### Exploratory Analysis 
-1. **How significant is the 30-day hospital readmission problem within the patient population?**
+1. **How serious is the hospital readmission problem?**
 
 ## Business Analysis 
-3. **Which primary diagnoses are associated with the highest hospital readmission rates?**
-4. **Which patient characteristics are most strongly associated with 30-day readmissions?**
+1. **Which primary diagnosis are driving readmission?**
+2. **Which patient characteristics are associated with readmissions?**
    - Does age influence readmission risk?
    - How do comorbidities affect the likelihood of readmission?
    - Is gender associated with readmission risk?
    - How does a patient's history of previous readmissions influence future readmissions?
-5. **How do different treatment types relate to hospital readmission rates?**
-6. **Can a high-risk patient profile be identified using demographic and clinical characteristics?**
-7. **Among high-risk patients, which primary diagnoses and treatment types are associated with the greatest likelihood of readmission?**
+3. **Which treatments are associated with lower readmission rates?**
+4. **What does a high-risk patient portfolio look like? ?**
+5. **Among high-risk patients, which primary diagnoses and treatment types are associated with the greatest likelihood of readmission?**
    
 
 ## Key Findings
