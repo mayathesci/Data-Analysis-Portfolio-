@@ -34,9 +34,6 @@ This project explores the following research questions:
 5. **Can a high-risk patient profile be identified using demographic and clinical characteristics?**
 6. **Among high-risk patients, which primary diagnoses and treatment types are associated with the greatest likelihood of readmission?**
    
-## Key Findings
-
-## Key Findings
 
 ## Key Findings
 
