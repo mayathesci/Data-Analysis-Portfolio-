@@ -22,7 +22,7 @@ Hospital Readmissions SQL/
 │   └── Answers key business questions related to hospital readmissions
 │       using SQL queries and analytical techniques.
 │
-├── 📄 4-HospitalReadmissionsSQL_Report.pdf
+├── 📄 [Download the Hospital Readmissions Analysis Report](Hospital%20Readmissions%20SQL/4-HospitalreadmissionsSQL_Report.pdf)
 │   └── Final project report summarizing the analysis, key findings,
 │       business insights, and recommendations.
 │
@@ -35,7 +35,7 @@ Hospital Readmissions SQL/
 │
 └── 📄 README.md
     └── Project overview, methodology, dataset information,
-        key findings, and documentation.
+        key findings, and documentation.     
 ```
 ## Project Objective 
 
