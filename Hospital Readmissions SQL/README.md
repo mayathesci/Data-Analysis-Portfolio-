@@ -41,14 +41,17 @@ Age-related risk: Readmission rates increased with age, with patients aged 65 ye
 
 Clinical complexity: Patients with five or more comorbidities had readmission rates exceeding 90%, making them the strongest candidates for targeted interventions.
 
-Previous readmissions: A history of prior readmissions was one of the strongest predictors of future readmission, with risk increasing substantially after the first readmission.
+Gender: Readmission rates were nearly identical between men and women, suggesting that gender was not a meaningful predictor of 30-day hospital readmission in this dataset.
 
-Diagnosis-specific risk: While Diabetes and Hypertension accounted for the greatest number of readmissions due to patient volume, Sepsis, COPD, Heart Failure, and Stroke exhibited the highest readmission rates.
+Previous readmissions: A history of prior readmissions was one of the strongest predictors of future readmission, with risk increasing substantially after the first readmission.
 
 Treatment differences: Treatment type showed only modest differences in readmission rates, although patients receiving conservative treatment experienced the highest rate of readmission.
 
+Diagnosis-specific risk: While Diabetes and Hypertension accounted for the greatest number of readmissions due to patient volume, Sepsis, COPD, Heart Failure, and Stroke exhibited the highest readmission rates.
+
 High-risk patient portfolio: A cohort defined by age 65 or older, five or more comorbidities, and two or more previous readmissions had a 96.61% readmission rate, identifying a population that would benefit most from intensive discharge planning and follow-up care.
 
+Within the high-risk patient population, kidney disease, sepsis, and pneumonia exhibited the highest readmission rates. Patients receiving conservative treatment experienced the highest readmission rate, while medical treatment accounted for the largest number of high-risk patients.
 
 ## Recommendations
 
