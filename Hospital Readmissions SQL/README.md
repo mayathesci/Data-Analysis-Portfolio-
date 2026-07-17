@@ -22,7 +22,7 @@ This analysis focuses on 9 key variables that are most relevant to evaluating fa
 
 ## Findings
 
-Readmission burden:Of the 8,000 patients analyzed, 77.29% experienced a 30-day hospital readmission, indicating a significant operational and clinical challenge.
+Readmission burden: Of the 8,000 patients analyzed, 77.29% experienced a 30-day hospital readmission, indicating a significant operational and clinical challenge.
 
 Age-related risk: Readmission rates increased with age, with patients aged 65 years and older representing the highest-risk demographic.
 
