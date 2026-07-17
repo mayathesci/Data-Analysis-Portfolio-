@@ -1,30 +1,29 @@
 -- =========================================
---  Hospital Readmission Risks Anaylsis 
--- Create Database and Table
+-- Hospital Readmission SQL Analysis
+-- Database and Table Creation Script
 -- =========================================
 
--- Create database
+-- Create project database
 CREATE DATABASE IF NOT EXISTS hospital_readmission;
 USE hospital_readmission;
 
--- Create table
-CREATE TABLE `hospital_readmissions` (
-   `patient_id` varchar(50) DEFAULT NULL,
-   `admission_date` date DEFAULT NULL,
-   `season` varchar(50) DEFAULT NULL,
-   `age` int DEFAULT NULL,
-   `gender` varchar(20) DEFAULT NULL,
-   `region` varchar(50) DEFAULT NULL,
-   `primary_diagnosis` varchar(100) DEFAULT NULL,
-   `comorbidities_count` int DEFAULT NULL,
-   `length_of_stay` int DEFAULT NULL,
-   `treatment_type` varchar(100) DEFAULT NULL,
-   `medications_count` int DEFAULT NULL,
-   `followup_visits_last_year` int DEFAULT NULL,
-   `prev_readmissions` int DEFAULT NULL,
-   `insurance_type` varchar(50) DEFAULT NULL,
-   `discharge_disposition` varchar(100) DEFAULT NULL,
-   `readmission_risk` float DEFAULT NULL,
-   `label` int DEFAULT NULL
- ) 
-   
+-- Create hospital readmissions table
+CREATE TABLE hospital_readmissions (
+    patient_id VARCHAR(50) DEFAULT NULL,
+    admission_date DATE DEFAULT NULL,
+    season VARCHAR(50) DEFAULT NULL,
+    age INT DEFAULT NULL,
+    gender VARCHAR(20) DEFAULT NULL,
+    region VARCHAR(50) DEFAULT NULL,
+    primary_diagnosis VARCHAR(100) DEFAULT NULL,
+    comorbidities_count INT DEFAULT NULL,
+    length_of_stay INT DEFAULT NULL,
+    treatment_type VARCHAR(100) DEFAULT NULL,
+    medications_count INT DEFAULT NULL,
+    followup_visits_last_year INT DEFAULT NULL,
+    prev_readmissions INT DEFAULT NULL,
+    insurance_type VARCHAR(50) DEFAULT NULL,
+    discharge_disposition VARCHAR(100) DEFAULT NULL,
+    readmission_risk FLOAT DEFAULT NULL,
+    label INT DEFAULT NULL
+);
