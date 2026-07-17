@@ -19,7 +19,20 @@ This analysis focuses on 9 key variables that are most relevant to evaluating fa
 
 ![Variables Table](variablestable.png)
 
+## Research Questions
 
+This project explores the following research questions:
+
+1. **How significant is the 30-day hospital readmission problem within the patient population?**
+2. **Which primary diagnoses are associated with the highest hospital readmission rates?**
+3. **Which patient characteristics are most strongly associated with 30-day readmissions?**
+   - Does age influence readmission risk?
+   - How do comorbidities affect the likelihood of readmission?
+   - Is gender associated with readmission risk?
+   - How does a patient's history of previous readmissions influence future readmissions?
+4. **How do different treatment types relate to hospital readmission rates?**
+5. **Can a high-risk patient profile be identified using demographic and clinical characteristics?**
+6. **Among high-risk patients, which primary diagnoses and treatment types are associated with the greatest likelihood of readmission?**
 ## Findings
 
 Readmission burden: Of the 8,000 patients analyzed, 77.29% experienced a 30-day hospital readmission, indicating a significant operational and clinical challenge.
