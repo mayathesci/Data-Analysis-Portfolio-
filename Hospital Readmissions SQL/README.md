@@ -1,4 +1,4 @@
-### Enhancing Hospital Efficiency: A SQL Analysis of Hospital Readmission Risks
+# Enhancing Hospital Efficiency: A SQL Analysis of Hospital Readmission Risks
 
 ## Project Objective 
 
