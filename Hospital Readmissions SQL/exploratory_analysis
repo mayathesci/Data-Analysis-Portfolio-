@@ -2,7 +2,6 @@
 -- Question 1: How serious is the hospital readmission problem? 
 
 -- Total patients
--- Verified each patient is unique in "data.quality.assuranc_SQL"
 
 SELECT COUNT(patient_id) AS 'Total Patients'
 FROM hospital_readmissions;
