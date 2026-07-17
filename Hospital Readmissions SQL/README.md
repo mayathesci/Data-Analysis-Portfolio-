@@ -1,4 +1,4 @@
-### Enhancing Hopsital Efficiency: Hospital Readmission SQL Project 
+### Enhancing Hospital Efficiency: A SQL Analysis of Hospital Readmission Risks
 
 ## Project Objective 
 
@@ -33,7 +33,8 @@ This project explores the following research questions:
 4. **How do different treatment types relate to hospital readmission rates?**
 5. **Can a high-risk patient profile be identified using demographic and clinical characteristics?**
 6. **Among high-risk patients, which primary diagnoses and treatment types are associated with the greatest likelihood of readmission?**
-## Findings
+   
+## Key Findings
 
 Readmission burden: Of the 8,000 patients analyzed, 77.29% experienced a 30-day hospital readmission, indicating a significant operational and clinical challenge.
 
