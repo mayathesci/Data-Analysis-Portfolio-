@@ -23,7 +23,7 @@ This analysis focuses on 9 key variables that are most relevant to evaluating fa
 
 ## Key Variables
 
-![Variables Table](exploratory analysis images/variablestable.png)
+![Variables Table](exploratory%20analysis%20images/variablestable.png)
 
 ## Research Questions
 
