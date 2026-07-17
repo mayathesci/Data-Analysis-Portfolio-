@@ -27,10 +27,10 @@ Hospital Readmissions SQL/
 │       business insights, and recommendations.
 │
 ├── 📁 exploratory analysis images/
-│   └── Charts and visualizations supporting the exploratory analysis.
+│   └── Result sets supporting the exploratory analysis.
 │
 ├── 📁 business analysis images/
-│   └── Charts and visualizations supporting the business analysis
+│   └── Result sets supporting the business analysis
 │       and recommendations.
 │
 └── 📄 README.md
