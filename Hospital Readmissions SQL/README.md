@@ -5,9 +5,9 @@
 Repeat hospital visits increase healthcare costs, reduce operational efficiency, and may reflect opportunities to improve patient care. This project aims to identify the key factors associated with readmissions and provide actionable recommendations to help reduce preventable readmissions. 
 
 
-'1_create_database.sql` – Creates the project database and hospital readmissions table.
-'2_exploratory_analysis.sql` – Generates descriptive statistics and summarizes the overall readmission problem.
-`3_business_analysis.sql` – Answers the primary business questions using SQL queries and aggregation techniques.
+- **Database Setup:** `1_create_database.sql` – Creates the project database and hospital readmissions table.
+- **Exploratory Analysis:** `2_exploratory_analysis.sql` – Generates descriptive statistics and summarizes the overall readmission problem.
+- **Business Analysis:** `3_business_analysis.sql` – Answers the primary business questions using SQL queries and aggregation techniques.
 
 
 ## Dataset Overview 
