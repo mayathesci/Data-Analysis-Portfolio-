@@ -1,5 +1,41 @@
 # Enhancing Hospital Efficiency: A SQL Analysis of Hospital Readmission Risks
 
+
+
+
+
+
+
+## 📁 Project Structure
+
+Hospital Readmissions SQL/
+│
+├── 📄 1_create_database.sql
+│   └── Creates the database and hospital_readmissions table.
+│
+├── 📄 2_exploratory_analysis.sql
+│   └── Performs exploratory data analysis (EDA) to summarize the dataset,
+│       examine patient demographics, and identify initial trends.
+│
+├── 📄 3_business_analysis.sql
+│   └── Answers key business questions related to hospital readmissions
+│       using SQL queries and analytical techniques.
+│
+├── 📄 4-HospitalReadmissionsSQL_Report.pdf
+│   └── Final project report summarizing the analysis, key findings,
+│       business insights, and recommendations.
+│
+├── 📁 exploratory analysis images/
+│   └── Charts and visualizations supporting the exploratory analysis.
+│
+├── 📁 business analysis images/
+│   └── Charts and visualizations supporting the business analysis
+│       and recommendations.
+│
+└── 📄 README.md
+    └── Project overview, methodology, dataset information,
+        key findings, and documentation.
+```
 ## Project Objective 
 
 Repeat hospital visits increase healthcare costs, reduce operational efficiency, and may reflect opportunities to improve patient care. This project aims to identify the key factors associated with readmissions and provide actionable recommendations to help reduce preventable readmissions. 
