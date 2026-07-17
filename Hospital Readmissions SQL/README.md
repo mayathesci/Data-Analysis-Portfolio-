@@ -38,6 +38,10 @@ This project explores the following research questions:
 5. **Among high-risk patients, which primary diagnoses and treatment types are associated with the greatest likelihood of readmission?**
    
 
+- **Database Setup:** `1_create_database.sql` – Creates the project database and hospital readmissions table.
+- **Exploratory Analysis:** `2_exploratory_analysis.sql` – Generates descriptive statistics and summarizes the overall readmission problem.
+- **Business Analysis:** `3_business_analysis.sql` – Answers the primary business questions using SQL queries and aggregation techniques.
+
 ## Key Findings
 
 - **Readmission burden:** Of the 8,000 patients analyzed, **77.29%** experienced a 30-day hospital readmission, indicating a significant operational and clinical challenge.
