@@ -8,6 +8,7 @@
 
 ## 📁 Project Structure
 
+```text
 Hospital Readmissions SQL/
 │
 ├── 📄 1_create_database.sql
