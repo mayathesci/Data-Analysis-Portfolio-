@@ -40,7 +40,7 @@ This project explores the following research questions:
    - Is gender associated with readmission risk?
    - How does a patient's history of previous readmissions influence future readmissions?
 3. **Which treatments are associated with lower readmission rates?**
-4. **What does a high-risk patient portfolio look like? ?**
+4. **What does a high-risk patient portfolio look like?**
 5. **Among high-risk patients, which primary diagnoses and treatment types are associated with the greatest likelihood of readmission?**
    
 
