@@ -1,11 +1,8 @@
 # Data-Analysis-Portfolio-
 
 
+Every dataset tells a story. My goal is to uncover that story and transform data into insights that drive better decision making. 
 
+With a master's degree in Psychology and a background in research, I've spent years asking meaningful questions, analyzing complex data, and translating findings into actionable insights. Today, I'm expanding that foundation by building technical expertise in SQL, Excel, Tableau, and data visualization while pursuing a Master of Science in Data Analytics beginning in Fall 2026.
 
-Curiosity drives every project you'll find here.
-Every dataset tells a story. My goal is to uncover that story and turn it into insights that help people make better decisions.
-
-With a master's degree in Psychology and a background in research, I've spent years asking meaningful questions, analyzing complex data, and translating findings into actionable insights. Today, I'm expanding that foundation through data analytics, building technical expertise in SQL, Excel, Tableau, and data visualization while pursuing a Master of Science in Data Analytics beginning in Fall 2026.
-
-This portfolio showcases projects that combine analytical thinking, research, and technical skills to solve real-world problems. Thank you for taking the time to explore my work.
+This portfolio showcases projects that combine my research experience, analytical thinking, and technical skills to solve real-world problems. Thank you for taking the time to explore my work.
