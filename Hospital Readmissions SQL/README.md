@@ -10,6 +10,8 @@ The original dataset consists of 15 columns, including patient demographics (age
 This analysis focuses on 9 key variables that are most relevant to evaluating factors associated with 30-day hospital readmissions. Columns that were not directly related to the project objectives were excluded to keep the analysis focused and concise. 
 
 
+## Key Variables
 
+![Variables Table](variables_table.png)
 
 
