@@ -5,22 +5,39 @@
 
 
 
-
 📁 Project Structure
 
+```text
 Hospital Readmissions SQL/
 │
 ├── 📄 1_create_database.sql
+│   └── Creates the database and hospital_readmissions table.
+│
 ├── 📄 2_exploratory_analysis.sql
+│   └── Performs exploratory data analysis (EDA) to summarize the dataset,
+│       examine patient demographics, and identify initial trends.
+│
 ├── 📄 3_business_analysis.sql
+│   └── Answers key business questions related to hospital readmissions
+│       using SQL queries and analytical techniques.
+│
 ├── 📄 4-HospitalreadmissionsSQL_Report.pdf
+│   └── Final project report summarizing the analysis, key findings,
+│       business insights, and recommendations.
 │
 ├── 📁 assets/
-│   └── 🖼️ dashboard_preview.png  <-- Add your dashboard screenshot here
+│   └── 🖼️ dashboard_preview.png
 │
 ├── 📁 exploratory analysis images/
+│   └── Result sets supporting the exploratory analysis.
+│
 ├── 📁 business analysis images/
+│   └── Result sets supporting the business analysis and recommendations.
+│
 └── 📄 README.md
+    └── Project overview, methodology, dataset information,
+        key findings, and documentation.
+```
 
 ---
 
