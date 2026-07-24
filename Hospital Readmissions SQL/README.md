@@ -6,37 +6,38 @@
 
 
 
-## 📁 Project Structure
+📁 Project Structure
 
-```text
 Hospital Readmissions SQL/
 │
 ├── 📄 1_create_database.sql
-│   └── Creates the database and hospital_readmissions table.
-│
 ├── 📄 2_exploratory_analysis.sql
-│   └── Performs exploratory data analysis (EDA) to summarize the dataset,
-│       examine patient demographics, and identify initial trends.
-│
 ├── 📄 3_business_analysis.sql
-│   └── Answers key business questions related to hospital readmissions
-│       using SQL queries and analytical techniques.
+├── 📄 4-HospitalreadmissionsSQL_Report.pdf
 │
-├── 📄4-HospitalreadmissionsSQL_Report.pdf
-│   └── Final project report summarizing the analysis, key findings,
-│       business insights, and recommendations.
+├── 📁 assets/
+│   └── 🖼️ dashboard_preview.png  <-- Add your dashboard screenshot here
 │
 ├── 📁 exploratory analysis images/
-│   └── Result sets supporting the exploratory analysis.
-│
 ├── 📁 business analysis images/
-│   └── Result sets supporting the business analysis
-│       and recommendations.
-│
 └── 📄 README.md
-    └── Project overview, methodology, dataset information,
-        key findings, and documentation.     
-```
+
+---
+
+## 📊 Interactive Tableau Dashboard
+
+An interactive dashboard was developed in **Tableau Public** to analyze high-risk patient volumes and readmission rates across primary diagnoses and treatment modalities. 
+
+[![High-Risk Readmission Dashboard](./assets/dashboard_preview.png)](https://public.tableau.com/views/HospitalReadmissionAnalytics-HighRiskCohort/High-RiskReadmissionDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+> 💡 **Live Interactive View:** [Click here to explore and interact with the live dashboard on Tableau Public](https://public.tableau.com/views/HospitalReadmissionAnalytics-HighRiskCohort/High-RiskReadmissionDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Key Dashboard Highlights
+* **Dynamic Cross-Filtering:** Enables interactive drill-downs between primary diagnoses and treatment types.
+* **Standardized Color Scale:** Fixed color limits (90.00% – 100.00%) provide an accurate, unbiased visual comparison across views.
+* **SQL Logic Validation:** Built directly on top of the high-risk SQL parameters (`Comorbidities Count >= 5`, `Age >= 65`, `Prev Readmissions >= 2`) with readmission percentages mapped to binary outcomes (`Label = 1`).
+
+---
 ## Project Objective 
 
 Repeat hospital visits increase healthcare costs, reduce operational efficiency, and may reflect opportunities to improve patient care. This project aims to identify the key factors associated with readmissions and provide actionable recommendations to help reduce preventable readmissions. 
