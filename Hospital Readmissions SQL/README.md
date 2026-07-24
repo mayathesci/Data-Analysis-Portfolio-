@@ -26,7 +26,7 @@ Hospital Readmissions SQL/
 │       business insights, and recommendations.
 │
 ├── 📁 assets/
-│   └── [![High-Risk Readmission Dashboard](./assets/dashboard-preview.png)](https://public.tableau.com/views/HospitalReadmissionAnalytics-HighRiskCohort/High-RiskReadmissionDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+│   └── 🖼️ dashboard-preview.png
 │
 ├── 📁 exploratory analysis images/
 │   └── Result sets supporting the exploratory analysis.
@@ -53,7 +53,7 @@ An interactive dashboard was developed in **Tableau Public** to analyze high-ris
 * **Dynamic Cross-Filtering:** Enables interactive drill-downs between primary diagnoses and treatment types.
 * **Standardized Color Scale:** Fixed color limits (90.00% – 100.00%) provide an accurate, unbiased visual comparison across views.
 * **SQL Logic Validation:** Built directly on top of the high-risk SQL parameters (`Comorbidities Count >= 5`, `Age >= 65`, `Prev Readmissions >= 2`) with readmission percentages mapped to binary outcomes (`Label = 1`).
-
+[![High-Risk Readmission Dashboard](./assets/dashboard-preview.png)](https://public.tableau.com/views/HospitalReadmissionAnalytics-HighRiskCohort/High-RiskReadmissionDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 ## Project Objective 
 
