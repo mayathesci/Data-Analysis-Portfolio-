@@ -26,7 +26,7 @@ Hospital Readmissions SQL/
 │       business insights, and recommendations.
 │
 ├── 📁 assets/
-│   └── 🖼️ dashboard_preview.png
+│   └── [![High-Risk Readmission Dashboard](./assets/dashboard-preview.png)](https://public.tableau.com/views/HospitalReadmissionAnalytics-HighRiskCohort/High-RiskReadmissionDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 │
 ├── 📁 exploratory analysis images/
 │   └── Result sets supporting the exploratory analysis.
