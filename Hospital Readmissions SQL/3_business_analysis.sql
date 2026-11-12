@@ -1,5 +1,5 @@
 -- Business Analysis 
--- Question 1:  Which [rimary diagnosis are driving readmission?
+-- Question 1:  Which primary diagnosis are driving readmission?
 
 -- Readmission rate by primary diagnosis 
 
